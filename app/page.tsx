@@ -247,7 +247,7 @@ export default function Portfolio() {
             Building reliable systems, data pipelines, and delightful tools.
           </h1>
           <p className="mt-4 text-muted-foreground max-w-2xl mx-auto">
-            I'm Shri, a Computer Engineering graduate from UIC ('25) and a Computer Science Master's student at Georgia Tech.
+            I'm Shri, a Computer Engineering graduate from the University of Illinois at Chicago ('25) and a Computer Science Master's student at Georgia Tech.
             I like turning ideas into resilient services—think microservices, real-time apps, Kubernetes-powered apps, and analytical dashboards.
           </p>
           <div className="mt-6 flex flex-wrap gap-3 justify-center">
