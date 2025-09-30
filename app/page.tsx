@@ -138,10 +138,10 @@ const education = [
     extra: "Coursework: Systems, OS, Networks, Databases, Security"
   },
   {
-    school: "Georgia Tech (OMSCS)",
+    school: "Georgia Institute of Technology",
     credential: "M.S. in Computer Science (in progress)",
     time: "Fall 2025 cohort",
-    extra: "Health informatics & security focus"
+    extra: "Artificial Intelligence focus"
   }
 ];
 
