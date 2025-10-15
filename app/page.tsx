@@ -49,6 +49,12 @@ const projects = [
     links: []
   },
   {
+    title: "Interview Question Generator (LangChain + OpenAI + Streamlit)",
+    summary: "AI-powered app that creates tailored interview questions by role or topic with adjustable difficulty and creativity.",
+    highlights: ["Dynamic prompt templates", "LLM-driven question generation", "Instant, exportable results for interview prep"],
+    links: [ { href: "https://interview-question-generator-app.streamlit.app/", label: "Live demo" } ]
+  },
+  {
     title: "Calculator Project",
     summary: "A polished web calculator with clean UI and precise arithmetic behaviors.",
     highlights: ["Responsive UI", "Keyboard support", "Deployed on GitHub Pages"],
